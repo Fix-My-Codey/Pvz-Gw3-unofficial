@@ -1,2 +1,2 @@
-# Pvz-Gw3-unofficial-
+# Pvz-Gw3-unofficial
 The open source Pvz Gw3 (unofficial) project
